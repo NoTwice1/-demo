@@ -1,0 +1,54 @@
+weight 重量 多重
+relatedTo 相关 有关
+telephone 电话 号码 电话号 电话号码 手机 手机号 手机号码
+birthDate 出生日期 出生时间 生日 时候出生 年出生
+height 高度 海拔 多高 身高
+sibling 兄弟 哥哥 姐姐 弟弟 妹妹 姐妹
+workLocation 工作地点 在哪工作 在哪上班 上班地点
+children 子女 孩子 女儿 儿子
+年龄 几岁 多大
+代表作品 代表作 著作 成就 作品
+homeLocation 家庭住址 住哪 住在哪 住在什么
+职业 工作 做什么 干什么
+colleague 大学 高校
+birthPlace 出生地 在哪出生
+description 简介 是什么 描述 什么是 概述
+parent 父母 双亲
+jobTitle 工作 职业
+award 奖项 奖励
+address 地址 在哪 位置 在什么地方
+nationality 国籍 哪国人
+spouse  配偶 丈夫 妻子 老婆 老公
+deathData 去世日期 逝世日期 时候死
+affiliation 从属
+gender 性别 是男是女
+民族
+deathPlace 去世地点 在哪死 在哪去世
+memberOf 成员
+alumniOf 校友 毕业于
+方言
+branchCode 银行编号
+行政区类别
+著名景点
+面积 多大 大小
+海拔 高度 多高
+电话区号
+特产
+containedInPlace 属于
+知名产业
+人口
+名称 name 叫什么
+numberOfEmployees 员工数目
+aggregateRating
+parentOrganization 母公司
+foundingDate 成立日期
+公司行政
+founder 创建者
+法定代表人
+location 地址 位置
+legalName 法人名称
+hasOfferCatalog
+alternateName
+同意信用代码
+行业
+makesOffer
